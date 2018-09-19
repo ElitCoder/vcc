@@ -1,0 +1,7 @@
+This directory contains the source code of the VCC C compiler, which can 
+compile a small subset of C. VCC is a pedagogical tool to study 
+optimizing compilers using the book An Introduction to the Theory of 
+Optimizing Compilers: with performance measurements on POWER, ISBN-13: 978-1537091129.
+See optimizing-compilers.com
+
+The code is Copyright Jonas Skeppstedt with all rights reserved.
